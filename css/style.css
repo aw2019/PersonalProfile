@@ -1,0 +1,27 @@
+*{padding: 0; margin: 0; box-sizing: border-box;}
+#container{
+  width: 100%;
+  max-width: 960px;
+}
+header{
+  max-height: 200px;
+  min-height: 150px;
+  border: 1px solid black;
+}
+nav{
+  max-height: 40px;
+  min-height: 20px;
+  border: 2px solid black;
+}
+main{
+    border: 1px solid black;
+}
+footer{
+    border: 1px solid black;
+}
+@@media query only and screen (max-width: 480px){
+
+}
+@@media query only and screen (max-width: 320px){
+
+}
